@@ -1,2 +1,1 @@
 # Swift
-Author: Flavius Condurache

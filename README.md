@@ -1,4 +1,4 @@
 # Swift
 
-Added Stopwatch app\n
-Added Memorable Places App
+* Added Stopwatch app
+* Added Memorable Places App

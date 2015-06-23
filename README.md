@@ -1,3 +1,4 @@
 # Swift
 
-Added Stopwatch app
+* Added Stopwatch App
+* Added Memorable Places App
